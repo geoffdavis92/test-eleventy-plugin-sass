@@ -1,0 +1,15 @@
+{
+  "name": "test-eleventy-plugin-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "eleventy-plugin-sass": "https://github.com/brooklynebkbk/eleventy-plugin-sass.git"
+  }
+}

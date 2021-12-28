@@ -1,0 +1,3 @@
+# test-eleventy-plugin-sass ignores... 
+node_modules 
+public
